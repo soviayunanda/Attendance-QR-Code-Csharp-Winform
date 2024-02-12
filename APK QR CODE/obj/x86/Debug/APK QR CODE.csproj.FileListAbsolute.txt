@@ -1,0 +1,72 @@
+C:\Users\pahah\documents\visual studio 2010\Projects\APK QR CODE\APK QR CODE\obj\x86\Debug\APK QR CODE.csprojResolveAssemblyReference.cache
+C:\Users\pahah\documents\visual studio 2010\Projects\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Properties.Resources.resources
+C:\Users\pahah\documents\visual studio 2010\Projects\APK QR CODE\APK QR CODE\obj\x86\Debug\APK QR CODE.csproj.GenerateResource.Cache
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\bin\Debug\APK QR CODE.exe
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\bin\Debug\APK QR CODE.pdb
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\bin\Debug\AForge.Video.dll
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\bin\Debug\zxing.dll
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\bin\Debug\AForge.dll
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\bin\Debug\AForge.Video.xml
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\bin\Debug\zxing.xml
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\bin\Debug\AForge.xml
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmqr.resources
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\obj\x86\Debug\APK QR CODE.exe
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\obj\x86\Debug\APK QR CODE.pdb
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmawal.resources
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmdaftarguru.resources
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmlogin.resources
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\bin\Debug\QRCoder.dll
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmadmin.resources
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\bin\Debug\zxing.presentation.dll
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\bin\Debug\zxing.presentation.xml
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmcetak.resources
+C:\Users\pahah\Documents\Visual Studio 2010\Projects\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.CetakID.resources
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\obj\x86\Debug\APK QR CODE.exe
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\obj\x86\Debug\APK QR CODE.pdb
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\bin\Debug\APK QR CODE.exe
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\bin\Debug\APK QR CODE.pdb
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\bin\Debug\AForge.dll
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\bin\Debug\AForge.Video.DirectShow.dll
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\bin\Debug\AForge.Video.dll
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\bin\Debug\AForge.xml
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\bin\Debug\AForge.Video.xml
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\bin\Debug\AForge.Video.DirectShow.xml
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\bin\Debug\zxing.xml
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\bin\Debug\zxing.presentation.xml
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\obj\x86\Debug\APK QR CODE.csprojResolveAssemblyReference.cache
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.CetakID.resources
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmqr.resources
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmadmin.resources
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmawal.resources
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmcetak.resources
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmdaftarguru.resources
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmlogin.resources
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Properties.Resources.resources
+D:\Sovia Yunanda\UPB\APK QR CODE\APK QR CODE\obj\x86\Debug\APK QR CODE.csproj.GenerateResource.Cache
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\obj\x86\Debug\APK QR CODE.exe
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\obj\x86\Debug\APK QR CODE.pdb
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\bin\Debug\APK QR CODE.exe.config
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\obj\x86\Debug\APK QR CODE.csprojResolveAssemblyReference.cache
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.CetakID.resources
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmqr.resources
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmadmin.resources
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmawal.resources
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmcetak.resources
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmdaftarguru.resources
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmlogin.resources
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Frmreport.resources
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\obj\x86\Debug\APK_QR_CODE.Properties.Resources.resources
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\obj\x86\Debug\APK QR CODE.csproj.GenerateResource.Cache
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\bin\Debug\APK QR CODE.exe
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\bin\Debug\APK QR CODE.pdb
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\bin\Debug\AForge.dll
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\bin\Debug\AForge.Video.dll
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\bin\Debug\AForge.xml
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\bin\Debug\AForge.Video.xml
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\bin\Debug\zxing.xml
+C:\Users\pahah\Documents\APK QR CODE\APK QR CODE\bin\Debug\zxing.presentation.xml

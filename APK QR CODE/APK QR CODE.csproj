@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2CD099D8-4C79-49D0-8409-9609D44DF1E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>APK_QR_CODE</RootNamespace>
+    <AssemblyName>APK QR CODE</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>APK_QR_CODE.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\Compressed\New folder (4)\ems-system\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\Compressed\New folder (4)\ems-system\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\Compressed\New folder (4)\ems-system\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\..\Downloads\Compressed\New folder (4)\ems-system\ems-system\bin\Debug\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="QRCoder">
+      <HintPath>..\..\..\..\..\Downloads\Compressed\New folder (4)\ems-system\packages\QRCoder.1.4.3\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing, Version=0.16.9.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\Compressed\New folder (4)\ems-system\packages\ZXing.Net.0.16.8\lib\net40\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation">
+      <HintPath>..\..\..\..\..\Downloads\Compressed\New folder (4)\ems-system\packages\ZXing.Net.0.16.8\lib\net40\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CetakID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CetakID.Designer.cs">
+      <DependentUpon>CetakID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQR.Designer.cs">
+      <DependentUpon>FrmQR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmadmin.Designer.cs">
+      <DependentUpon>Frmadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmawal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmawal.Designer.cs">
+      <DependentUpon>Frmawal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmcetak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmcetak.Designer.cs">
+      <DependentUpon>Frmcetak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmdaftarguru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmdaftarguru.Designer.cs">
+      <DependentUpon>Frmdaftarguru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmlogin.Designer.cs">
+      <DependentUpon>Frmlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmreport.Designer.cs">
+      <DependentUpon>Frmreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="report_absen.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>report_absen.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="CetakID.resx">
+      <DependentUpon>CetakID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQR.resx">
+      <DependentUpon>FrmQR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmadmin.resx">
+      <DependentUpon>Frmadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmawal.resx">
+      <DependentUpon>Frmawal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmcetak.resx">
+      <DependentUpon>Frmcetak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmdaftarguru.resx">
+      <DependentUpon>Frmdaftarguru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmlogin.resx">
+      <DependentUpon>Frmlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmreport.resx">
+      <DependentUpon>Frmreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="report_absen.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>report_absen.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Gambar\QR code_Monochromatic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Gambar\cara-penting-untuk-meningkatkan-prestasi-sekolah-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Gambar\Online protection_Monochromatic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Gambar\add-friend.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Gambar\padlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Gambar\icon_kembali.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gambar Logo Sekolah Dasar %28SD%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Gambar\guru nongol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Gambar\guru banyak.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Gambar\guru laki.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Gambar\guru cewe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Gambar\admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Gambar\jam2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Gambar\scan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
